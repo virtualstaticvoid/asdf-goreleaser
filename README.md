@@ -10,6 +10,7 @@
 
 ```
 asdf plugin-add goreleaser https://github.com/kforsthoevel/asdf-goreleaser.git
+asdf install goreleaser latest
 ```
 
 ## Use
